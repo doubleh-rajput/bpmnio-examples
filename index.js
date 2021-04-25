@@ -1,4 +1,1 @@
-import './css/index.css';
-console.log("Boilerplate added!!");
-
-
+import './examples/custom-palette/modeler';
